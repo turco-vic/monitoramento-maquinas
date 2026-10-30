@@ -1,4 +1,4 @@
-# Monitoramento de Máquinas — CloudTech Solutions
+# Monitoramento de Máquinas - CloudTech Solutions
 
 Aplicação em Java Spring Boot para cadastro, consulta e acompanhamento de dados das máquinas monitoradas.
 
